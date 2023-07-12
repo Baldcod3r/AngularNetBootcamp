@@ -1,0 +1,15 @@
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/OrientadoObjetos/bin/Debug/net7.0/OrientadoObjetos
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/OrientadoObjetos/bin/Debug/net7.0/OrientadoObjetos.deps.json
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/OrientadoObjetos/bin/Debug/net7.0/OrientadoObjetos.runtimeconfig.json
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/OrientadoObjetos/bin/Debug/net7.0/OrientadoObjetos.dll
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/OrientadoObjetos/bin/Debug/net7.0/OrientadoObjetos.pdb
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/OrientadoObjetos/obj/Debug/net7.0/OrientadoObjetos.csproj.AssemblyReference.cache
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/OrientadoObjetos/obj/Debug/net7.0/OrientadoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/OrientadoObjetos/obj/Debug/net7.0/OrientadoObjetos.AssemblyInfoInputs.cache
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/OrientadoObjetos/obj/Debug/net7.0/OrientadoObjetos.AssemblyInfo.cs
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/OrientadoObjetos/obj/Debug/net7.0/OrientadoObjetos.csproj.CoreCompileInputs.cache
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/OrientadoObjetos/obj/Debug/net7.0/OrientadoObjetos.dll
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/OrientadoObjetos/obj/Debug/net7.0/refint/OrientadoObjetos.dll
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/OrientadoObjetos/obj/Debug/net7.0/OrientadoObjetos.pdb
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/OrientadoObjetos/obj/Debug/net7.0/OrientadoObjetos.genruntimeconfig.cache
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/OrientadoObjetos/obj/Debug/net7.0/ref/OrientadoObjetos.dll

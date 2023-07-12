@@ -1,0 +1,15 @@
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/bases/bin/Debug/net7.0/bases
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/bases/bin/Debug/net7.0/bases.deps.json
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/bases/bin/Debug/net7.0/bases.runtimeconfig.json
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/bases/bin/Debug/net7.0/bases.dll
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/bases/bin/Debug/net7.0/bases.pdb
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/bases/obj/Debug/net7.0/bases.csproj.AssemblyReference.cache
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/bases/obj/Debug/net7.0/bases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/bases/obj/Debug/net7.0/bases.AssemblyInfoInputs.cache
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/bases/obj/Debug/net7.0/bases.AssemblyInfo.cs
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/bases/obj/Debug/net7.0/bases.csproj.CoreCompileInputs.cache
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/bases/obj/Debug/net7.0/bases.dll
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/bases/obj/Debug/net7.0/refint/bases.dll
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/bases/obj/Debug/net7.0/bases.pdb
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/bases/obj/Debug/net7.0/bases.genruntimeconfig.cache
+/Users/agustinbarrale/Desktop/NetAngularBootcamp/csharp/bases/obj/Debug/net7.0/ref/bases.dll
