@@ -10,20 +10,33 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+//Conexion base de datos
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(connectionString));
+
+builder.Services.AddCors();
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+    
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
+
 app.UseHttpsRedirection();
+//Habilitar el cors para datos cruzados front end
+app.UseCors(x=> x.AllowAnyOrigin()
+                .AllowAnyHeader()
+                .AllowAnyMethod()
+);
+
+
+
 
 app.UseAuthorization();
 
